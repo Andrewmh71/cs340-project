@@ -1,0 +1,17 @@
+{
+  "name": "activity2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Hiser",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "forever": "^4.0.3",
+    "forver": "^0.0.6",
+    "mysql": "^2.18.1"
+  },
+  "description": ""
+}
